@@ -1,3 +1,4 @@
+
 import Isotope from "isotope-layout";
 import { useEffect, useRef, useState } from "react";
 import { dataImage, portfolioHover } from "../utilits";
@@ -117,12 +118,12 @@ const Portfolio = () => {
                 <div className="inner">
                   <div
                     className="entry dizme_tm_portfolio_animation_wrap"
-                    data-title="Mockup Shape"
+                    data-title="Ariel Procaccia"
                     data-category="Youtube"
                   >
                     <a
                       className="popup-youtube"
-                      href="https://www.youtube.com/embed/7e90gBu4pas?autoplay=1"
+                      href="https://youtu.be/KgsDweb3_fo"
                     >
                       <img src="img/thumbs/42-56.jpg" alt="image" />
                       <div
@@ -132,7 +133,7 @@ const Portfolio = () => {
                     </a>
                   </div>
                   <div className="mobile_title">
-                    <h3>Mockup Shape</h3>
+                    <h3>Ariel Procaccia</h3>
                     <span>Youtube</span>
                   </div>
                 </div>
@@ -141,12 +142,12 @@ const Portfolio = () => {
                 <div className="inner">
                   <div
                     className="entry dizme_tm_portfolio_animation_wrap"
-                    data-title="Ave Bottle"
-                    data-category="Vimeo"
+                    data-title="Ariel Procaccia"
+                    data-category="Youtube"
                   >
                     <a
                       className="popup-vimeo"
-                      href="https://player.vimeo.com/video/337293658?autoplay=1"
+                      href="https://youtu.be/e7FwWfUcZTg"
                     >
                       <img src="img/thumbs/42-34.jpg" alt="image" />
                       <div
@@ -165,12 +166,12 @@ const Portfolio = () => {
                 <div className="inner">
                   <div
                     className="entry dizme_tm_portfolio_animation_wrap"
-                    data-title="Magic Art"
-                    data-category="Soundcloud"
+                    data-title="Ariel Procaccia"
+                    data-category="Youtube"
                   >
                     <a
                       className="soundcloude_link mfp-iframe audio"
-                      href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+                      href="https://youtu.be/YHo6CDTnEIQ"
                     >
                       <img src="img/thumbs/42-56.jpg" alt="image" />
                       <div
@@ -189,7 +190,7 @@ const Portfolio = () => {
                 <div className="inner">
                   <div
                     className="entry dizme_tm_portfolio_animation_wrap"
-                    data-title="Scott Felix"
+                    data-title="Ariel Procaccia"
                     data-category="Popup"
                   >
                     <a className="zoom" href="img/portfolio/5.jpg">
@@ -210,7 +211,7 @@ const Portfolio = () => {
                 <div className="inner">
                   <div
                     className="entry dizme_tm_portfolio_animation_wrap"
-                    data-title="Art Stone"
+                    data-title="Ariel Procaccia"
                     data-category="Popup"
                   >
                     <a className="zoom" href="img/portfolio/4.jpg">
@@ -232,7 +233,7 @@ const Portfolio = () => {
                 <div className="inner">
                   <div
                     className="entry dizme_tm_portfolio_animation_wrap"
-                    data-title="Global Evolution"
+                    data-title="Ariel Procaccia"
                     data-category="Detail"
                   >
                     <a className="portfolio_popup" href="#">
