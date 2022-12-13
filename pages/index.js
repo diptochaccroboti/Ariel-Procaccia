@@ -20,7 +20,8 @@ const Index = () => {
   return (
     <Layout>
       <Head>
-        <title>Dizme | Home</title>
+        <title>Ariel Procaccia</title>
+      
       </Head>
       <Home />
       {/* HERO */}
